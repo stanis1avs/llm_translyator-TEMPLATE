@@ -1,0 +1,22 @@
+{
+  "name": "llm-translyator-frontend",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "preview": "nuxt preview"
+  },
+  "dependencies": {
+    "nuxt": "^3.13.0",
+    "vue": "^3.4.0",
+    "pinia": "^2.2.0",
+    "@pinia/nuxt": "^0.7.0",
+    "vuetify": "^3.7.0",
+    "vuetify-nuxt-module": "^0.18.0",
+    "@mdi/font": "^7.4.47"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.0",
+    "vue-tsc": "^2.1.0"
+  }
+}
