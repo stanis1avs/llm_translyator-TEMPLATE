@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+dev.env
+data/*.db
+data/*.db-shm
+data/*.db-wal
+node_modules/
+frontend/.nuxt/
+frontend/.output/
+.DS_Store
+Thumbs.db
+*.log
